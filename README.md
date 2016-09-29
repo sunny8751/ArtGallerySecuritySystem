@@ -9,6 +9,7 @@ The green paintings symbolize that the camera can see that entire painting, whil
 This program was created for my Mathematical Modeling class project.
 
 Screenshots:
+
 ![Alt text](/Images/Image1.png?raw=true)
 ![Alt text](/Images/Image2.png?raw=true)
 ![Alt text](/Images/Image3.png?raw=true)
