@@ -1,5 +1,7 @@
 # Art Gallery Security System
 
+This project was developed in collaboration with Peter Cheng, Jack Robertson, and Jessica Yao.
+
 A 3D simulation of a museum of paintings with a security system comprised of two cameras. The goal of the simulation is to determine the best placement of cameras such that the **risk of theft is minimized**. 
 
 There were **seven different room configurations** of paintings that were tested.
